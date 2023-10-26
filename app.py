@@ -31,4 +31,4 @@ def get_coins():
     return response.json()["data"]["rateUsd"]
 
 if __name__ == "__main__":
-    db = Database.db_show()
+    app.run()
