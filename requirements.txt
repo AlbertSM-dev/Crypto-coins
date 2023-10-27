@@ -1,3 +1,4 @@
 flask
 requests==2.25.0
 prometheus_client
+prometheus-flask-exporter
