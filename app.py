@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import requests
 from flask import Flask
-import pandas as pd
+#import pandas as pd
 #from database import Database
 from prometheus_flask_exporter import PrometheusMetrics
 
